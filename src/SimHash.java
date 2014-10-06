@@ -73,12 +73,7 @@ public class SimHash {
 		}
 	}
 
-	/**
-	 * 取两个二进制的异或，统计为1的个数，就是海明距离
-	 * 
-	 * @param other
-	 * @return
-	 */
+	
 
 	public int hammingDistance(SimHash other) {
 
